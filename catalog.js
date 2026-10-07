@@ -1,6 +1,23 @@
 // In-house products use original: true. eqr’ availability was checked on 2026-09-23.
 window.ODCS_CATALOG = [
   {
+    "id": "ossmove-feather-cap-black",
+    "brand": "OSSMOVE",
+    "name": "oss move feather cap",
+    "color": "black",
+    "category": "headwear",
+    "original": false,
+    "href": "ossmove-feather-cap-black.html",
+    "image": "assets/ossmove-feather-cap-black-01-front.jpg",
+    "hoverImage": "assets/ossmove-feather-cap-black-01-front.jpg",
+    "imageAlt": "oss move feather cap black 정면",
+    "price": 39000,
+    "size": "ONE SIZE",
+    "variants": [
+      { "id": "ossmove-feather-cap-black-os", "size": "ONE SIZE", "available": true }
+    ]
+  },
+  {
     "id": "ossmove-move-cap-alpha-blue",
     "brand": "OSSMOVE",
     "name": "ossmove move cap",
