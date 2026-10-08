@@ -1,6 +1,40 @@
 // In-house products use original: true. eqr’ availability was checked on 2026-09-23.
 window.ODCS_CATALOG = [
   {
+    "id": "ossmove-feather-cap-blue",
+    "brand": "OSSMOVE",
+    "name": "feather cap",
+    "color": "blue",
+    "category": "headwear",
+    "original": false,
+    "href": "ossmove-feather-cap-blue.html",
+    "image": "assets/ossmove-feather-cap-blue-01-thumbnail.jpg",
+    "hoverImage": "assets/ossmove-feather-cap-blue-01-thumbnail.jpg",
+    "imageAlt": "feather cap blue 정면",
+    "price": 39000,
+    "size": "ONE SIZE",
+    "variants": [
+      { "id": "ossmove-feather-cap-blue-os", "size": "ONE SIZE", "available": true }
+    ]
+  },
+  {
+    "id": "ossmove-feather-cap-pale-pink",
+    "brand": "OSSMOVE",
+    "name": "feather cap",
+    "color": "pale pink",
+    "category": "headwear",
+    "original": false,
+    "href": "ossmove-feather-cap-pale-pink.html",
+    "image": "assets/ossmove-feather-cap-pale-pink-01-thumbnail.jpg",
+    "hoverImage": "assets/ossmove-feather-cap-pale-pink-01-thumbnail.jpg",
+    "imageAlt": "feather cap pale pink 정면",
+    "price": 39000,
+    "size": "ONE SIZE",
+    "variants": [
+      { "id": "ossmove-feather-cap-pale-pink-os", "size": "ONE SIZE", "available": true }
+    ]
+  },
+  {
     "id": "ossmove-feather-cap-black",
     "brand": "OSSMOVE",
     "name": "oss move feather cap",
